@@ -5,6 +5,7 @@ RENCANA BLABLA DZAKBB
     * CSS
     * JS
       ^ JS Lanjutan
+      ^ React
   - CCNA
   - SOFTWARE AI 
     ^ Python
