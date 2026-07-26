@@ -4,9 +4,11 @@ RENCANA BLABLA DZAKBB
     * HTML
     * CSS
     * JS
-      ^ Node
-      ^ JS bukan lanjutan
-  - SOFTWARE AI ENGINEER
+      ^ JS Lanjutan
+      ^ React
+  - CCNA
+  - SOFTWARE AI 
     ^ Python
   - ETHICAL HACKING
   - CLOUD ENGINEER
+  - Python
